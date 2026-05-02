@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./images/Chest.png" alt="Auto Sail" width="150"/>
 
-  <h1>Auto Storager v1.5.1</h1>
+  <h1>Auto Storager v1.6.0</h1>
 </div>
 
 <br>
